@@ -12,24 +12,24 @@ To write a Python program that creates a **Student** class with a **default cons
 
 ## 🧾 Program
 ```
-# Get user input
+
 name = input("Enter student name: ")
 
-# Define the class
-class Student:
-    # Default constructor
-    def __init__(self):
-        self.a = name   # assign input to instance variable
 
-    # Method to display message
+class Student:
+    
+    def __init__(self):
+        self.a = name   
+
+
     def show(self):
         print("This is non-parameterized constructor")
         print("Welcome", self.a)
 
-# Create object
+
 s = Student()
 
-# Call method
+
 s.show()
 ```
 
