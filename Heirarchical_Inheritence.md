@@ -40,7 +40,7 @@ class Details:
         self.age = int(input("Enter age: "))
 
 
-# Derived class 1
+
 class Employee(Details):
     def getEmployeeDetails(self):
         self.getName()
@@ -56,7 +56,7 @@ class Employee(Details):
         print("Department:", self.department)
 
 
-# Derived class 2
+
 class Patient(Details):
     def getPatientDetails(self):
         self.getName()
@@ -72,15 +72,15 @@ class Patient(Details):
         print("Disease:", self.disease)
 
 
-# Create objects
+
 emp = Employee()
 pat = Patient()
 
-# Get details
+
 emp.getEmployeeDetails()
 pat.getPatientDetails()
 
-# Display details
+
 emp.showEmployee()
 pat.showPatient()
 ```
