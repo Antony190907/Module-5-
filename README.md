@@ -233,7 +233,7 @@ print("Location:", obj.getLocation())
 
 ## Sample Output
 <img width="580" height="496" alt="image" src="https://github.com/user-attachments/assets/896977df-69be-43b7-9eee-f37d4bee9ade" />
-# Arithmetic Operations Using Multiple Inheritance in Python
+## Arithmetic Operations Using Multiple Inheritance in Python
 
 This Python program demonstrates **multiple inheritance** by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes.
 
