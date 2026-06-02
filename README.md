@@ -1,6 +1,6 @@
 ## NAME: ANTONY YOUVAN YUVARAJA A
 ## REG NO: 212225060020
-# # Constructors in Python: Welcome Message with Student Name
+## Constructors in Python: Welcome Message with Student Name
 
 ## 🎯 Aim
 To write a Python program that creates a **Student** class with a **default constructor** and a method to display a welcome message along with the student’s name provided by the user.
@@ -89,7 +89,8 @@ del obj
 
 ## Result
 The program was executed successfully. A class with a constructor and destructor was implemented, where the constructor initializes and displays the status, and the destructor is automatically invoked when the object is deleted
-# Hierarchical Inheritance in Python
+
+## Hierarchical Inheritance in Python
 
 This Python project demonstrates **Hierarchical Inheritance** using a base class `Details` and two derived classes `Employee` and `Patient`. The program collects and displays details for both employees and patients.
 
@@ -178,7 +179,7 @@ pat.showPatient()
 ## Sample Output
 <img width="629" height="837" alt="image" src="https://github.com/user-attachments/assets/9d5eda9e-e402-451b-9b64-44f0904509e7" />
 
-# Multilevel Inheritance Example in Python
+## Multilevel Inheritance Example in Python
 
 This Python project demonstrates the concept of **Multilevel Inheritance** to collect and display the **name**, **age**, and **location** of a person.
 
@@ -233,6 +234,7 @@ print("Location:", obj.getLocation())
 
 ## Sample Output
 <img width="580" height="496" alt="image" src="https://github.com/user-attachments/assets/896977df-69be-43b7-9eee-f37d4bee9ade" />
+
 ## Arithmetic Operations Using Multiple Inheritance in Python
 
 This Python program demonstrates **multiple inheritance** by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes.
