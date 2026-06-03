@@ -179,6 +179,7 @@ pat.showPatient()
 ```
 ## Sample Output
 <img width="629" height="837" alt="image" src="https://github.com/user-attachments/assets/9d5eda9e-e402-451b-9b64-44f0904509e7" />
+
 ## RESULT:
 Thus the program that uses Heirarchical inheritence to input and display employee and patient details has been executed successfully.
 
@@ -237,6 +238,7 @@ print("Location:", obj.getLocation())
 
 ## Sample Output
 <img width="580" height="496" alt="image" src="https://github.com/user-attachments/assets/896977df-69be-43b7-9eee-f37d4bee9ade" />
+
 ## RESULT :
 Thus the program that uses multilevel inheritence to get and display a person name, age and location executed successfully.
 
@@ -302,5 +304,6 @@ print("Division:", obj.Division(a, b))
 
 ## Output Example
 <img width="606" height="438" alt="image" src="https://github.com/user-attachments/assets/ae268800-befd-4261-be0d-9edd4d73622f" />
+
 ## RESULT:
 Thus the program demonstrates multiple inheritence by perfoming basic arithmetic operation --- addition,subtraction and division --- using three classes has been executed successfully .
